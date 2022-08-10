@@ -1,0 +1,15 @@
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/bin/Debug/net6.0/tercerTaller1
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/bin/Debug/net6.0/tercerTaller1.deps.json
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/bin/Debug/net6.0/tercerTaller1.runtimeconfig.json
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/bin/Debug/net6.0/tercerTaller1.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/bin/Debug/net6.0/tercerTaller1.pdb
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/tercerTaller1.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/tercerTaller1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/tercerTaller1.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/tercerTaller1.AssemblyInfo.cs
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/tercerTaller1.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/tercerTaller1.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/refint/tercerTaller1.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/tercerTaller1.pdb
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/tercerTaller1.genruntimeconfig.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/taller1/tercerTaller1/obj/Debug/net6.0/ref/tercerTaller1.dll

@@ -21,8 +21,10 @@
                     break;
                 }
             }
-            firstDigit = number % 10;
-            secondDigit = number / 10;
+            secondDigit = number % 10;
+            firstDigit = number / 10;
+            System.Console.Write("El número invertido es: ");
+            System.Console.WriteLine(Convert.ToString(secondDigit) + Convert.ToString(firstDigit));
         }
     }
 }
