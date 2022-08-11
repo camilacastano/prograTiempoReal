@@ -1,0 +1,15 @@
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/bin/Debug/net6.0/arreglos
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/bin/Debug/net6.0/arreglos.deps.json
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/bin/Debug/net6.0/arreglos.runtimeconfig.json
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/bin/Debug/net6.0/arreglos.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/bin/Debug/net6.0/arreglos.pdb
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/arreglos.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/arreglos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/arreglos.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/arreglos.AssemblyInfo.cs
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/arreglos.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/arreglos.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/refint/arreglos.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/arreglos.pdb
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/arreglos.genruntimeconfig.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/arreglos/obj/Debug/net6.0/ref/arreglos.dll

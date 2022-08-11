@@ -1,0 +1,15 @@
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/bin/Debug/net6.0/triki
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/bin/Debug/net6.0/triki.deps.json
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/bin/Debug/net6.0/triki.runtimeconfig.json
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/bin/Debug/net6.0/triki.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/bin/Debug/net6.0/triki.pdb
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/triki.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/triki.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/triki.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/triki.AssemblyInfo.cs
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/triki.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/triki.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/refint/triki.dll
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/triki.pdb
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/triki.genruntimeconfig.cache
+/home/jonathan/Documents/Universidad/2022-2/prograTiempoReal/notas/triki/obj/Debug/net6.0/ref/triki.dll
