@@ -31,7 +31,8 @@
             position[9, 1] = 10; position[9, 0] = 2;
 
             bool winner = false;
-            while ((turnos < 9) && (winner = false))
+            // while ((turnos < 9) && (winner = false))
+            while ((turnos < 9))
             {
                 System.Console.WriteLine("\n\t\tJueguito de triki fachero 🎮\n");
                 for (int i = 0; i < tablero.GetLength(0); i++)
