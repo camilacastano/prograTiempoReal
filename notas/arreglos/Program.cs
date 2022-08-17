@@ -45,9 +45,6 @@
             y = Convert.ToInt16(Console.ReadLine());
 
             double[,] userMatrix = new double[x, y];
-
-
-
         }
     }
 }
