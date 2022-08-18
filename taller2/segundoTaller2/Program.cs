@@ -35,7 +35,7 @@ for (int i = Convert.ToInt16(data.Min()); i <= data.Max(); i += tamInterval)
 interval = Convert.ToInt16(data.Min());
 for (int i = 0; i < hist.Length; i++)
 {
-    for (int j = 0; j < hist[i]; j++) { System.Console.Write("🧊"); }
+    for (int j = 0; j < hist[i]; j++) { System.Console.Write("😈"); }
     System.Console.WriteLine(" | -> (" + interval + ", " + (interval + tamInterval) + ")");
     interval = interval + tamInterval;
 }
