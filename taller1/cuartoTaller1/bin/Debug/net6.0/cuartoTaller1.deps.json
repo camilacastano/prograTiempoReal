@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cuartoTaller1/1.0.0": {
+        "runtime": {
+          "cuartoTaller1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cuartoTaller1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
