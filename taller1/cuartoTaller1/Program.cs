@@ -10,7 +10,6 @@
                 answer = i * answer;
             }
             return answer;
-
         }
         static void Main(string[] args)
         {
@@ -22,7 +21,8 @@
             x = Convert.ToDouble(Console.ReadLine());
             for (int i = 0; i <= n; i++)
             {
-                suma = suma + (Math.Pow(x, i) / factorial(n));
+                suma = suma + (Math.Pow(x, i) / factorial(i));
+                System.Console.WriteLine("suma=" + suma + ",i=" + i);
             }
             System.Console.WriteLine("La aproximación con " + n + " iteraciones es: " + suma);
         }
