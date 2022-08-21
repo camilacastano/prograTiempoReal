@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace quintoTaller1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i;
+            char j;
+            string frase;
+            int vocales = 0;
+
+            Console.Write("Ingrese una frase: ");
+            frase = Console.ReadLine();
+
+            for (i = 0; i < frase.Length; i++)
+            {
+                j = frase[i];
+                int c = char.ToLower(j);
+                if((c=='a') | (c=='e') | (c=='i') | (c=='o') | (c=='u'))
+                {
+                    vocales++;
+                }
+                if()
+                {
+                
+                }
+            }
+            Console.WriteLine("El numero de vocales es: "+ vocales);
+            Console.ReadKey();
+            
+
+            
+
+        }
+    }
+}
